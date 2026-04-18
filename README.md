@@ -3,14 +3,22 @@ This is a small project built in Open Stage Control that works with Playtime 2 a
 
 <img width="1111" height="520" alt="PlaytimeOSCphoto1" src="https://github.com/user-attachments/assets/7f9c3e55-3cd8-4f91-83c3-9a5f5073e0a6" />
 
+<<<<<<< HEAD
 You'll need these things:
+=======
+### You'll need these things:
+>>>>>>> f06c92b (formatting)
 1. Playtime 2 downloaded https://www.helgoboss.org/projects/playtime (Reaper comes with it)
 2. Reaper (https://www.reaper.fm/download.php
 3. Open Stage Control installed https://openstagecontrol.ammd.net/download/ (similar to TouchOSC but server based and javascript enabled)
 4. custom Realearn .json files or my example project available at www.trevornew.com/tech
 5. Touch control surface (iPad, tablet, touchscreen)
 
+<<<<<<< HEAD
 This works right out of the box with Reaper and Playtime 2, and Open Stage Control properly configured and on the same network as the computer, there are many ways to do this.
+=======
+### This works right out of the box with Reaper and Playtime 2, and Open Stage Control properly configured and on the same network as the computer, there are many ways to do this.
+>>>>>>> f06c92b (formatting)
 1. connect to the same wifi network
 2. wired ethernet betweem tablet and computer running open stage control and reaper
 3. all devices connected to hotspot
